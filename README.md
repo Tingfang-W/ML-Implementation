@@ -7,3 +7,5 @@ It includes classification (KNN, LDA, QDA), regression (linear, ridge, lasso), d
 Variable selection methods are also employed to identify key predictors, demonstrating practical machine learning applications.
 
 [Check the implementations here](Machine_Learning_Implementations.pdf)
+
+[Check the implementations here](Machine_Learning_Implementations.html)
